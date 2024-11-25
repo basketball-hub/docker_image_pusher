@@ -1,1 +1,1 @@
-redis:7.4.1
+--platform=linux/arm64 redis:7.4.1
